@@ -81,7 +81,7 @@ const productCollection = [
     id: "tydfbvoscn12",
     title: "l-shape sofa",
     price: 280.99,
-    company: "seasfood",
+    company: "seafood",
     img: `./images/product project/livingroom-sofa.jpg`,
   },
   {
